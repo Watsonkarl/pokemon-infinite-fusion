@@ -9,3 +9,5 @@ The game was created in RPG Maker X based on Pokemon Essentials, using Pokemon F
 When fused, pokémon combine their types, attacks, abilities, get a unique sprite and a Pokédex entry
 
 There are over 176k variations of Pokémon fusion in the game
+
+[<img src="https://github.com/Watsonkarl/pokemon-infinite-fusion/blob/main/pokelogo..png"/>]
